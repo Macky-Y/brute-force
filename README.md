@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="i.imgur.com/a/0ksWD66>
-    asdhaskdjnas
+  <img src="https://imgur.com/kK9cWR6">
+
 </p>
