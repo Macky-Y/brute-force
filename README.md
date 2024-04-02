@@ -13,6 +13,6 @@
 
 <p align="center">
   <b>
- Note: This program is designed for authorized security testing and vulnerability assessments on controlled environments with explicit permission. It should not be used on external networks or systems you don't own or manage. I am not responsible for any misuse or legal repercussions that may arise from unauthorized scanning.
+ Note: This program is designed for authorized security testing and vulnerability assessments on controlled environments with explicit permission. It should not be used on external networks or systems you don't own or manage. I am not responsible for any misuse or legal repercussions that may arise from mishandling this tool.
  </b>
 </p>
