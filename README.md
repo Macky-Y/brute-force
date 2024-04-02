@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/kK9cWR6.png">
+  <img src="https://i.imgur.com/PrGgKJv.png">
 </p>
 
 <h1 align="center">Bruteforce Attack Script using Python3</h1>
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://i.imgur.com/Lzyxumu.png">
 </p>
 
 <p align="center">
   <b>
- Note: Do not scan networks that you don't have permission to scan! This program is intended for education purposes only. Using this program for unauthorized network scanning or malicious activities is strictly prohibited. I am not responsible for any misuse or legal repercussions that may arise from unauthorized scanning.
+ Note: This program is designed for authorized security testing and vulnerability assessments on controlled environments with explicit permission. It should not be used on external networks or systems you don't own or manage. I am not responsible for any misuse or legal repercussions that may arise from unauthorized scanning.
  </b>
 </p>
